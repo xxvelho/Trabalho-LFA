@@ -1,1 +1,1 @@
-# Trabalho-LFA
+# AFN to AFD
